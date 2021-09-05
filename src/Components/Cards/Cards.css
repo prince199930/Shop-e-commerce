@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+
+.cards{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 80px;
+    width: 16%;
+    
+}
+
+.inside-card{
+    width: 100%;
+    box-shadow: 0 2px 2px #ccc;
+    /* margin-left: -404px; */
+}
+
+.preview img{
+    width: 100%;
+    height: 40vh;
+}

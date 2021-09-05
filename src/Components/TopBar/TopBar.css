@@ -1,0 +1,13 @@
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    box-shadow: 0 2px 2px #CCC;
+    background-color: #fff;
+}
+
+.about{
+    display: flex;
+    flex-direction: row;
+    margin-left: -104px;
+}
